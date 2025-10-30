@@ -5,8 +5,13 @@ public class Ex11 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Digite um número: ");
         int n = sc.nextInt();
+        int soma=0;
 
-        for (i = 1 )
+        for (int i = 1; i <=n; i++) {
+            soma+=i;
+        }
+        System.out.println("A soma é " + soma);
+
 
     }
 }
