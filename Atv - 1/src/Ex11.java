@@ -12,6 +12,6 @@ public class Ex11 {
         }
         System.out.println("A soma é " + soma);
 
-
+        sc.close();
     }
 }

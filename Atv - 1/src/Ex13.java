@@ -16,5 +16,6 @@ public class Ex13 {
         else if (n==0){
             System.out.println("O número é 0!");
         }
+        sc.close();
     }
 }

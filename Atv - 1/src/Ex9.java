@@ -25,5 +25,6 @@ public class Ex9 {
                 System.out.println("Opção invalida!\n");
                 break;
         }
+        sc.close();
     }
 }

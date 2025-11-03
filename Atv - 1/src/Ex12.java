@@ -12,5 +12,6 @@ public class Ex12 {
         double media = (n1+n2+n3)/3;
 
         System.out.println("A sua média é " + media);
+        sc.close();
     }
 }

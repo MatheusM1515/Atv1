@@ -10,5 +10,6 @@ public class Ex3 {
         double n2 = sc.nextDouble();
 
         System.out.println("O resultado da soma de " + n1 + " com " + n2 + " é " + (n1+n2));
+        sc.close();
     }
 }

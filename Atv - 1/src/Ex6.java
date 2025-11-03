@@ -12,7 +12,7 @@ public class Ex6 {
         else {
             System.out.println("O número " + n1 + "é impar");
         }
-
+        sc.close();
 
     }
 }
