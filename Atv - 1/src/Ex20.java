@@ -25,6 +25,8 @@ public class Ex20 {
             );
         } else {
             System.out.println("Opção inválida!");
+
+            sc.close();
         }
     }
 }
